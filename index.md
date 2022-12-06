@@ -9,7 +9,7 @@ Hopefully something throughout this website will offer anything to anyone.<br>
 
 * * *
 
-Current contriubters of projects:
+Current contributors of projects:
 
 | Contributer  | Contribution      |
 |:-------------|:------------------|
