@@ -2,4 +2,14 @@
 layout: default
 ---
 
-This site will ultimately act as a place where myself, and other contributers to projects I have started are able to colaborate and work towards getting information out into the public.
+# About Me:
+
+Currently, I am a Computer Science student working within the tech space.
+I am creating this as a hobby in order to give myself something do! :)
+Hopefully something throughout this website will offer anything to anyone.
+
+Current contriubters of projects:
+
+| Contributer  | Contribution      |
+|:-------------|:------------------|
+| Jorban       | Guide for ReShade |
